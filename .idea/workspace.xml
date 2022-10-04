@@ -3,8 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="55f9aec0-0093-4afb-8a9a-3cd9cd0df283" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/0-run" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/0-run" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/1-run_inline" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/1-run_inline" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/10-check_cycle.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/10-check_cycle.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/100-write.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/100-write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/101-compile" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/101-compile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/102-magic_calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/102-magic_calculation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/2-print.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/2-print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/3-print_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/3-print_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/4-print_float.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/4-print_float.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/5-print_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/5-print_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/6-concat.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/6-concat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/7-edges.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/7-edges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/8-concat_edges.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/8-concat_edges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/9-easter_egg.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/9-easter_egg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/lists.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/lists.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
