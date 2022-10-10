@@ -5,7 +5,6 @@
       <change afterPath="$PROJECT_DIR$/0x05-python-exceptions/1-safe_print_integer.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/0x05-python-exceptions/100-safe_print_integer_err.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/0x05-python-exceptions/101-safe_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05-python-exceptions/102-magic_calculation.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/0x05-python-exceptions/103-python.c" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/0x05-python-exceptions/2-safe_print_list_integers.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/0x05-python-exceptions/3-safe_print_division.py" afterDir="false" />
@@ -15,7 +14,9 @@
       <change afterPath="$PROJECT_DIR$/0x05-python-exceptions/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-python-hello_world/1-run_inline" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-python-hello_world/1-run_inline" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0x05-python-exceptions/0-safe_print_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x05-python-exceptions/0-safe_print_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05-python-exceptions/102-magic_calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x05-python-exceptions/102-magic_calculation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
