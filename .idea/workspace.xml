@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55f9aec0-0093-4afb-8a9a-3cd9cd0df283" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0x06-python-classes/0-square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06-python-classes/1-square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06-python-classes/100-singly_linked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06-python-classes/101-square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06-python-classes/102-square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06-python-classes/103-magic_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06-python-classes/2-square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06-python-classes/3-square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06-python-classes/4-square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06-python-classes/5-square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06-python-classes/6-square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06-python-classes/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-python-classes/0-square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-python-classes/0-square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-python-classes/1-square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-python-classes/1-square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-python-classes/2-square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-python-classes/2-square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-python-classes/3-square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-python-classes/3-square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-python-classes/4-square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-python-classes/4-square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-python-classes/5-square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-python-classes/5-square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-python-classes/6-square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-python-classes/6-square.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
