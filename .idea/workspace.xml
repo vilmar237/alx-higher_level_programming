@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55f9aec0-0093-4afb-8a9a-3cd9cd0df283" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/0x03-python-data_structures/lists.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02-python-import_modules/100-my_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-python-import_modules/100-my_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02-python-import_modules/2-args.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-python-import_modules/2-args.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02-python-import_modules/3-infinite_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-python-import_modules/3-infinite_add.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02-python-import_modules/4-hidden_discovery.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-python-import_modules/4-hidden_discovery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02-python-import_modules/5-variable_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-python-import_modules/5-variable_load.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
