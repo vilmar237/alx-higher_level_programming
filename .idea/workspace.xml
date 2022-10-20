@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55f9aec0-0093-4afb-8a9a-3cd9cd0df283" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/1-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/10-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/100-magic_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/101-line4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/101-locked_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/102-line4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/103-line1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/103-line2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/104-line1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/104-line2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/104-line3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/104-line4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/104-line5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/106-line1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/106-line2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/106-line3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/106-line4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/106-line5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/11-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/12-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/13-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/14-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/15-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/16-answer.txt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/17-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/18-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/19-copy_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/2-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/20-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/21-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/22-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/23-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/24-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/25-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/26-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/27-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/28-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/3-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/4-answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/5-answer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-python-everything_is_object/16-answer.txt.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
