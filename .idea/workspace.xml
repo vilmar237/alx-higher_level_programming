@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55f9aec0-0093-4afb-8a9a-3cd9cd0df283" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/0-add_integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/100-matrix_mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/101-lazy_matrix_mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/102-python.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/0-add_integer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/100-matrix_mul.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/101-lazy_matrix_mul.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/2-matrix_divided.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/3-say_my_name.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/4-print_square.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/5-text_indentation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/6-max_integer_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/100-matrix_mul.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/100-matrix_mul.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/3-say_my_name.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/3-say_my_name.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
