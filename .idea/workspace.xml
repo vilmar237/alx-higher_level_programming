@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55f9aec0-0093-4afb-8a9a-3cd9cd0df283" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/0-read_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/1-write_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/10-student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/100-append_after.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/101-stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/11-student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/12-pascal_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/2-append_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/3-to_json_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/4-from_json_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/5-save_to_json_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/6-load_from_json_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/7-add_item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/8-class_to_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/9-student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/100-matrix_mul.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/100-matrix_mul.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/3-say_my_name.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/3-say_my_name.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
